@@ -11,6 +11,7 @@ import 'aos/dist/aos.css';
 import Loader from "./components/home page/Loader";
 
 function App() {
+    
     AOS.init();
     return (
         <div>
