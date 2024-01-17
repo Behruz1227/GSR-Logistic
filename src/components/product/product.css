@@ -1,0 +1,33 @@
+.product-main {
+    width: 98.5vw;
+    height: 91.5vmin;
+    max-height: 800px;
+}
+
+.col1 {
+    background: #ECECEC;
+}
+
+.card-col-row {
+    font-size: .8em;
+    font-weight: 500;
+}
+
+.pagination-style {
+    /* position: fixed; */
+    top: 90%;
+    width: 20%
+}
+
+.pagination-style ul {
+    display: flex;
+    justify-content: flex-start !important
+}
+
+.pagination-style ul li {
+    padding: 0 .8rem;
+}
+
+.relative {
+    position: relative!important;
+}
